@@ -1,5 +1,5 @@
 # What is Sofya?
-Sofya is a programming language that was named after a female mathematician called Sofya Kovalevskaya. Sofya was made by Timothy Oywera using another programming language called Python. Sofya was made to enable people to program computers to solve mathematical and scientific problems
+Sofya is a very simple programming language that was named after a female mathematician called Sofya Kovalevskaya. Sofya was made by Timothy Oywera using another programming language called Python. Sofya was made to enable people to program computers to solve mathematical and scientific problems in a very simple way.
 
 # How to Set Up Sofya Version 1.0
 1. You will need to download the latest version of Python (because Sofya was made using Python). You can access the Python website through this link: https://www.python.org/downloads/
