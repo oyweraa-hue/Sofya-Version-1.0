@@ -1,6 +1,39 @@
 # What is Sofya?
 Sofya is a very simple programming language (that was developed from December 2023 and released on 7th October 2025) that was named after a female mathematician called Sofya Kovalevskaya. Sofya was made by Timothy Oywera using another programming language called Python. Sofya was made to enable people to program computers to solve mathematical and scientific problems in a very simple way.
 
+# Why use Sofya?
+The answer is quite simple, _Sofya is simpler than most of the other programming languages out there today_. To demonstrate this, let us say that we want to make a simple program that asks the computer user to enter two numbers then the computer should calculate the sum and difference of the two numbers. We can compare how this program looks in _C_, _Python_ and _Sofya_.
+
+# _The C Program_
+  #include <stdio.h>
+  int main()
+  {
+    int x, y, sum, difference;
+    printf("Input two numbers:\n");
+    scanf("%i %i", &x, &y);
+    sum = x + y;
+    difference = x - y;
+    printf("The sum is %i and the difference is %i", sum, difference);
+    return 0;
+  }
+
+# _The Python Program_
+  x = int(input("Input the first number: "))
+  y = int(input("Input the second number: "))
+  sum = x + y
+  difference = x - y
+  print(f"The sum is {sum} and the difference is {difference}")
+
+# _The Sofya Program_
+  Start
+    AskComputerUser "Input the first number:" store the answer in Variable[x]
+    AskComputerUser "Input the second number:" store the answer in Variable[y]
+    Variable Sum is Variable[x] + Variable[y]
+    Variable Difference is Variable[x] - Variable[y]
+    Say "The sum is" also say Variable[Sum]
+    Say "The difference is" also say Variable[Difference]
+  Stop
+
 # How to Set Up Sofya Version 1.0
 1. You will need to download the latest version of Python (because Sofya was made using Python). You can access the Python website through this link: https://www.python.org/downloads/
 2. On your computer, make a new folder and give it an appropriate name.
