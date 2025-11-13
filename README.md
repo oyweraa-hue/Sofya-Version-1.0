@@ -5,7 +5,7 @@ Sofya is a very simple programming language (that was developed from December 20
 The answer is quite simple, _Sofya is simpler than most of the other programming languages out there today_. To demonstrate this, let us say that we want to make a simple program that asks the computer user to enter two numbers then the computer should calculate the sum and difference of the two numbers. We can compare how this program looks in _C_, _Python_ and _Sofya_.
 
 # _The C Program_
-  #include <stdio.h> \n
+  #include <stdio.h>
   int main()
   {
     int x, y, sum, difference;
