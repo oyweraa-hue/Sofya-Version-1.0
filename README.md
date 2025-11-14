@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="Logo for Sofya " src="https://github.com/user-attachments/assets/040a8c1f-999b-4e49-be63-15534953259b" />
+<img width="1024" height="900" alt="Logo for Sofya " src="https://github.com/user-attachments/assets/040a8c1f-999b-4e49-be63-15534953259b" />
 
 
 # What is Sofya?
