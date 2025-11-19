@@ -68,7 +68,7 @@ try:
                     token = ""
                 elif state == 1:
                     token = " "
-            elif token == "\n":
+            elif token == "\n" or token == "\t":
                 if expr != "" and isexpr == 1:
                     tokens.append("EXPR:" + expr)
                     isexpr = 0
