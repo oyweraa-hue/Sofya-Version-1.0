@@ -1,5 +1,9 @@
 <img width="400" height="400" alt="Logo for Sofya " src="https://github.com/user-attachments/assets/040a8c1f-999b-4e49-be63-15534953259b" />
 
+******************************************************************************************************************************
+# NOTICE!
+_This version of Sofya had a lot of issues so I wanted to update it. I will release the new version in January 2026. Sorry for any inconviniences caused._
+******************************************************************************************************************************
 
 # What is Sofya?
 Sofya is a very simple programming language (that was developed from December 2023 and released on 7th October 2025) that was named after a female mathematician called Sofya Kovalevskaya. Sofya was made by Timothy Oywera using another programming language called Python. Sofya was made to enable people to program computers to solve mathematical and scientific problems in a very simple way.
