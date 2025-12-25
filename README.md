@@ -42,13 +42,11 @@ The answer is quite simple, _Sofya is simpler than most of the other programming
 8.   Stop
   
 # How to Set Up Sofya Version 1.0
-1. You will need to download the latest version of Python (because Sofya was made using Python). You can access the Python website through this link: https://www.python.org/downloads/
-2. On your computer, make a new folder and give it an appropriate name.
-3. Put the Sofya 1.0 Interpreter and the Sofya 1.0 User Manual inside the new folder that you created in step 2 (The Sofya 1.0 Interpreter and the Sofya 1.0 User Manual are available in this repository).
-4. Make a new Notepad file (if you are using Windows) or a new Text Editor file (if you are using Mac or Macintosh) inside that folder that you created in step 2, and give it an appropriate name.
-5. The Notepad file or the Text Editor File, that you made in step 4, is where you will be writing your Sofya code. You can create more Notepad or Text Editor files (in the same folder) if you want to write different Sofya programs. More details about writing Sofya programs is in the Sofya 1.0 User Manual.
-6. When you have written a Sofya program, and you are ready to run it, you should go to the Python IDLE (that you downloaded in step 1) and open the Sofya 1.0 Interpreter (from the IDLE) then you can run the Sofya 1.0 Interpreter so that you can run your Sofya program. More details about running Sofya programs is in the Sofya 1.0 User Manual.
-7. If you have managed to do all this, you have successfully set up Sofya Version 1.0! You can now refer to the Sofya 1.0 User Manual to start using Sofya.
+1. If you do not have Python, you will need to download the latest version of Python (because Sofya was made using Python). You can access the Python website through this link to download the basic Python IDLE: https://www.python.org/downloads/
+2. If you do not want to use the **basic Python IDLE**, you can use an advanced IDE like **PyCharm** or **Visual Studio Code**.
+3. If you cloned the Sofya Version 1.0 repository (in step 1), you should find it in the downloads section on your computer (it will be in a folder named **Sofya-Version-1.0-main**)  In the Sofya Version 1.0 repository, you will find a Python file named **Sofya Version 1.0 IDLE**. Use the basic Python IDLE (that you downloaded in step 2) or an advanced IDE like PyCharm or Visual Studio Code to open this file.
+4. If you run this file, the **Sofya Version 1.0 IDLE** will appear on the screen.
+5. If you have managed to do all this, you have successfully set up Sofya Version 1.0! You can now refer to the Sofya 1.0 User Manual to start using Sofya.
 
 # Important Notes
 1. Sofya is not a case sensitive language.
