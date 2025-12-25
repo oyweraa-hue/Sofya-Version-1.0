@@ -33,12 +33,12 @@ The answer is quite simple, _Sofya is simpler than most of the other programming
   
 # _The Sofya Program_
 1.   Start
-2.     AskComputerUser "Input the first number:" store the answer in Variable[x]
-3.     AskComputerUser "Input the second number:" store the answer in Variable[y]
+2.     Ask Computer User "Input the first number:" and store the answer in Variable[x]
+3.     Ask Computer User "Input the second number:" and store the answer in Variable[y]
 4.     Variable Sum is Variable[x] + Variable[y]
 5.     Variable Difference is Variable[x] - Variable[y]
-6.     Say "The sum is" also say Variable[Sum]
-7.     Say "The difference is" also say Variable[Difference]
+6.     Write "The sum is" and also write Variable[Sum]
+7.     Write "The difference is" and also write Variable[Difference]
 8.   Stop
   
 # How to Set Up Sofya Version 1.0
@@ -49,5 +49,5 @@ The answer is quite simple, _Sofya is simpler than most of the other programming
 5. If you have managed to do all this, you have successfully set up Sofya Version 1.0! You can now refer to the Sofya 1.0 User Manual to start using Sofya.
 
 # Important Notes
-1. Sofya is not a case sensitive language.
+1. Sofya is **NOT** a case sensitive language.
 2. Sofya is designed for people who are beginners in programming, so it is very simple to use.
