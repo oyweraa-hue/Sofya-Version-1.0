@@ -2,7 +2,7 @@
 
 ******************************************************************************************************************************
 # NOTICE!
-_This version of Sofya had a lot of issues so I wanted to update it. I will release the new version in February 2026. Sorry for any inconviniences caused._
+_Sofya Version 1.0 has been officially released. I hope that you enjoy using Sofya Version 1.0!_
 ******************************************************************************************************************************
 
 # What is Sofya?
