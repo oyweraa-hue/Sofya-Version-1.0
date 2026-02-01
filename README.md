@@ -2,11 +2,11 @@
 
 ******************************************************************************************************************************
 # NOTICE!
-_This version of Sofya had a lot of issues so I wanted to update it. I will release the new version in February 2026. Sorry for any inconviniences caused._
+_Sofya Version 1.0 has been officially released. I hope that you enjoy using Sofya Version 1.0!_
 ******************************************************************************************************************************
 
 # What is Sofya?
-Sofya is a **very simple programming language** (that was developed from December 2023 and released on 1st February 2026) that was named after a female mathematician called Sofya Kovalevskaya. Sofya was made by Timothy Oywera using another programming language called **Python**. Sofya was made to enable people to program computers to solve **mathematical** and **scientific problems** in a very simple way.
+Sofya is a **very simple programming language** (that was developed from **December 2023** and released on **1st February 2026**) that was named after a female mathematician called Sofya Kovalevskaya. Sofya was made by Timothy Oywera using another programming language called **Python**. Sofya was made to enable people to program computers to solve **mathematical** and **scientific problems** in a very simple way.
 
 # Why use Sofya?
 The answer is quite simple, **_Sofya is simpler than most of the other programming languages out there today_**. To demonstrate this, let us say that we want to make a simple program that _asks the computer user to enter two numbers then the computer should calculate the sum and difference of the two numbers_. We can compare how this program looks in **C**, **Python** and **Sofya**.
