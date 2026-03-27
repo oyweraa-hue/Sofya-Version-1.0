@@ -43,10 +43,25 @@ The answer is quite simple, **_Sofya is simpler than most of the other programmi
   
 # How to Set Up Sofya Version 1.0
 1. Clone (Download) this repository.
-2. If you cloned the Sofya Version 1.0 repository (in step 1), you should find it in the downloads section on your computer (it will be in a folder named **Sofya-Version-1.0-main**). You can **unzip** (extract the files from) this folder by right clicking on it then choosing the option for **extracting** the files.
-3. The computer will ask you where you want to extract the files to. Choose the place where you want the computer to extract the files to.
-4. Then go to the place where the computer extracted the files to and you will find a folder called **Sofya-Version-1.0-main**.
-5. If you click on this folder, you will see three other folders called **Sofya Version 1.0 Documentation**, **Sofya Version 1.0 for Windows** and **Sofya Version 1.0 for MacOS**. The Sofya Version 1.0 Documentation folder has the **Sofya version 1.0 user manual**, the **README** and the **licence** for Sofya. The Sofya Version 1.0 for Windows folder has the **Sofya Version 1.0 IDLE** _(that can only work if you are using Windows Operating System)_. Lastly, the Sofya Version 1.0 for MacOS folder has the **Sofya Version 1.0 IDLE** _(that can only work if you are using Macintosh Operating System)_. **_Note: The Sofya Integrated Development and Learning Environment (IDLE) is a place where you can write Sofya programs_**.
+2. If you cloned the Sofya Version 1.0 repository (in step 1), you should find it in the downloads section on your computer (it will be in a folder named **Sofya-Version-1.0-main**).
+
+**_If you are using Windows:_**
+1. You can unzip (extract the files from) the Sofya-Version-1.0-main folder by right clicking on it then choosing the option for extracting the files.
+2. The computer will ask you where you want to extract the files to. Choose the place where you want the computer to extract the files to.
+3. Then go to the place where the computer extracted the files to and you will find a folder called Sofya-Version-1.0-main.
+4. If you click on this folder, you will see three other folders called Sofya Version 1.0 Documentation, Sofya Version 1.0 for Windows and Sofya Version 1.0 for MacOS.
+5. The Sofya Version 1.0 Documentation folder has the manual and the licence for Sofya.
+6. The Sofya Version 1.0 for Windows folder has the Sofya app where you can write your code (that can only work if you are using Windows Operating System). Double click on this app.
+7. The computer will warn you that this app could have a virus, but don't worry. Sofya is completely safe. Click on an option called "More Info" and the computer will show you an option called "Run Anyway". Choose this option and the Sofya app will open.
+8. If you have managed to do all this, you have successfully set up Sofya! You can now check out the Sofya Manual to help you use Sofya. Have fun using Sofya!
+
+**_If you are using MacOS:_**
+1. Double click the Sofya-Version-1.0-main folder and it will create a new folder called Sofya-Version-1.0-main. Double click on this new folder.
+2. You will see three other folders called Sofya Version 1.0 Documentation, Sofya Version 1.0 for Windows and Sofya Version 1.0 for MacOS.
+3. The Sofya Version 1.0 Documentation folder has the manual and the licence for Sofya.
+4. The Sofya Version 1.0 for MacOS folder has the Sofya app where you can write your code (that can only work if you are using MacOS). You will find another folder here. Double click on the folder that is here. You will see the Sofya app. Double click on this app.
+5. The computer will warn you that this app could have a virus, but don't worry. Sofya is completely safe. The computer will show you an option called "Open Anyway". Choose this option and the Sofya app will open. If you do not see this option, close the error message and keep on trying to open the Sofya app until it shows you "Open Anyway".
+6. If you have managed to do all this, you have successfully set up Sofya! You can now check out the Sofya Manual to help you use Sofya. Have fun using Sofya!
 
 # Important Notes
 1. Sofya is **NOT** a case sensitive language.
