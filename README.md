@@ -12,37 +12,41 @@ Sofya is a **very simple programming language** (that was developed from **Decem
 The answer is quite simple, **_Sofya is simpler than most of the other programming languages out there today_**. To demonstrate this, let us say that we want to make a simple program that _asks the computer user to enter two numbers then the computer should calculate the sum and difference of the two numbers_. We can compare how this program looks in **C**, **Python** and **Sofya**.
 
 # _The C Program_
-```
+``` C
 #include <stdio.h>
+int main()
+{
+    int x, y, sum, difference;
+    printf("Input two numbers:\n");
+    scanf("%i %i", &x, &y);
+    sum = x + y;
+    difference = x - y;
+    printf("The sum is %i and the difference is %i", sum, difference);
+    return 0;
+}
 ```
-2.    int main()
-3.    {
-4.      int x, y, sum, difference;
-5.      printf("Input two numbers:\n");
-6.      scanf("%i %i", &x, &y);
-7.      sum = x + y;
-8.      difference = x - y;
-9.      printf("The sum is %i and the difference is %i", sum, difference);
-10.     return 0;
-11.    }
 
 # _The Python Program_
-1.   x = int(input("Input the first number: "))
-2.   y = int(input("Input the second number: "))
-3.   sum = x + y
-4.   difference = x - y
-5.   print(f"The sum is {sum} and the difference is {difference}")
-  
+``` Python
+x = int(input("Input the first number: "))
+y = int(input("Input the second number: "))
+sum = x + y
+difference = x - y
+print(f"The sum is {sum} and the difference is {difference}")
+```
+ 
 # _The Sofya Program_
-1. Start this program
-2. Ask the computer user "Input the first number" and store the answer in Variable[x]
-3. Ask the computer user "Input the second number" and store the answer in Variable[y]
-4. Variable Sum is Variable[x] + Variable[y]
-5. Variable Difference is Variable[x] - Variable[y]
-6. Write "The sum is" and also write Variable[Sum] on the screen
-7. Write "The difference is" and also write Variable[Difference] on the screen
-8. Stop this program
-  
+``` Plaintext
+Start this program
+    Ask the computer user "Input the first number" and store the answer in Variable[x]
+    Ask the computer user "Input the second number" and store the answer in Variable[y]
+    Variable Sum is Variable[x] + Variable[y]
+    Variable Difference is Variable[x] - Variable[y]
+    Write "The sum is" and also write Variable[Sum] on the screen
+    Write "The difference is" and also write Variable[Difference] on the screen
+Stop this program
+```
+
 # How to Set Up Sofya Version 1.0
 1. Clone (Download) this repository.
 2. If you cloned the Sofya Version 1.0 repository (in step 1), you should find it in the downloads section on your computer (it will be in a folder named **Sofya-Version-1.0-main**).
